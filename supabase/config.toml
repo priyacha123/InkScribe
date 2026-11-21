@@ -1,0 +1,4 @@
+project_id = "uboduahwtfsvrzimskgx"
+
+[functions.structure-blog]
+verify_jwt = false
